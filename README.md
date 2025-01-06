@@ -2,8 +2,8 @@
 
 ## Professional Experience
 ### Sr. Data Engineer @ Verizon
-•	Directed Agile, cross-functional teams in designing & implementing data pipelines, increasing project delivery speed by 30% by reducing defects.
-•	Engineered and optimized ETL pipelines using Python, SQL, boosting data processing efficiency.
+- Directed Agile, cross-functional teams in designing & implementing data pipelines, increasing project delivery speed by 30% by reducing defects.
+- Engineered and optimized ETL pipelines using Python, SQL, boosting data processing efficiency.
 •	Optimized big data processing workflows in Hadoop, ensuring efficient storage & processing of structured & unstructured data sets. 
 •	Designed and implemented scalable data pipelines using Apache Spark, PySpark, processing over 10TB of data daily, reducing data processing time by 40%. 
 •	Implemented data warehousing solutions in Snowflake, supporting fast querying on multi-terabyte datasets by setting up Snowflake Virtual Warehouses to support multiple workloads simultaneously, ensuring resource efficiency and cost control. 
